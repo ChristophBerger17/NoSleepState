@@ -2,6 +2,8 @@
 
 A small tool that prevents Windows 10 go into sleep state or lock the screen.
 
+NOTE: See also the [PowerToys Awake utility](https://docs.microsoft.com/en-us/windows/powertoys/awake), which seems to serve for the exact same purpose.
+
 ## Motivation
 
 Sometimes it's quite anoying, when the screen of a Windows 10 PC is locked after a certain time.
